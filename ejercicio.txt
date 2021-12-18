@@ -1,0 +1,7 @@
+# ACTIVIDAD
+
+1. Crear una rama
+2. Subir un archivo a esa rama
+3. Editar el archivo.
+4. Volver a subir el archivo a esa rama
+5. Mostrar captura del commit (de github) antes y despues del cambio.

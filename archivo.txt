@@ -1,2 +1,0 @@
-Hola desde GIT :D
-	Hola desde otra rama xD

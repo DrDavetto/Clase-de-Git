@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 Este texto random
 
 	x => no hagan spoilers de que se muere Clifford
+=======
+Hola K hace un pull o k hace
+>>>>>>> papus
