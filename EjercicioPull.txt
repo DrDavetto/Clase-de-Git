@@ -1,0 +1,7 @@
+# ACTIVIDAD
+
+1. Hacer una nueva rama
+2. Dentro de su rama, crear dos archivos.txt
+3. Hacer un push de la rama a GitHub
+4. De manera local hacer el merge
+5. Hacer el push a GitHub y mostrar captura de su repo
